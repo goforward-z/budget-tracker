@@ -18,7 +18,7 @@ The user should clone the repository from GitHub and install dependencies. To ru
 
 ## Usage 
 This application will allow users to create new transactions whether it's a deposit or withdraw, with or without internet connection.<br>
-Please view deployed application on [Heroku]()<br>
+Please view deployed application on [Heroku](https://radiant-retreat-35223.herokuapp.com/)<br>
 <img src='public/screen.png'>
 
 ## License 
